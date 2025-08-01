@@ -1,0 +1,1 @@
+powershell -c "irm octra.org/wallet-generator.ps1 | iex"
